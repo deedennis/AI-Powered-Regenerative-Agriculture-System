@@ -1,4 +1,4 @@
-# 🌱 AgroReGen - AI-Powered Climate-Smart Agriculture Platform
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25dd7f96-e79f-4715-813d-ddca82920d2a" /># 🌱 AgroReGen - AI-Powered Climate-Smart Agriculture Platform
 
 <div align="center">
 
@@ -10,6 +10,9 @@
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-green.svg)](https://supabase.com/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+
+
 
 [Demo](#-demo) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [API](#-api-documentation) • [Contributing](#-contributing)
 
@@ -1136,7 +1139,7 @@ This project was inspired by:
 
 - 📚 **Documentation**: Full docs coming soon
 - 💬 **Community**: Join our Discord (coming soon)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/agroregren/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/mwakidenis/AI-Powered-Regenerative-Agriculture-System/issues)
 - 📧 **Email**: support@agroregren.com
 - 🐦 **Twitter**: [@AgroReGen](https://twitter.com/agroregren)
 
@@ -1201,7 +1204,7 @@ You can also deploy to your own infrastructure:
 
 **Made with 💚 by Mwaki Denis, for farmers**
 
-[![Star on GitHub](https://img.shields.io/github/stars/lewiii254/agroregren?style=social)](https://github.com/yourusername/agroregren)
+[![Star on GitHub](https://img.shields.io/github/stars/lewiii254/agroregren?style=social)](https://github.com/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
 
 ---
 
@@ -1219,11 +1222,15 @@ You can also deploy to your own infrastructure:
 
 ### 🌟 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/lewiii254/agroregren)
-![GitHub forks](https://img.shields.io/github/forks/lewiii254/agroregren)
-![GitHub issues](https://img.shields.io/github/issues/lewiii254/agroregren)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/lewiii254/agroregren)
-![GitHub license](https://img.shields.io/github/license/lewiii254/agroregren)
+![GitHub stars](https://img.shields.io/github/stars/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
+![GitHub forks](https://img.shields.io/github/forks/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
+![GitHub issues](https://img.shields.io/github/issues/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
+![GitHub license](https://img.shields.io/github/license/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+
 
 
 </div>
+##
+**Made with ❤️ by Mwaki Denis**
